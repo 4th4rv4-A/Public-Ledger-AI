@@ -25,5 +25,3 @@ PublicLedger is a full-stack dashboard designed to bridge the transparency gap i
 4. Open your web browser and navigate to `http://127.0.0.1:5000`
 
 ---
-**Developed by:** Atharva Anil Meshram
-*B.Tech Computer Technology | Priyadarshini College of Engineering*ic-Ledger-AI
